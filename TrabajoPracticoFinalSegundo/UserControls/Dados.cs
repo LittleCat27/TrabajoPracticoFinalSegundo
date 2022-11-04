@@ -117,6 +117,7 @@ namespace TrabajoPracticoFinalSegundo.UserControls
 
         }
 
+        // comentario
         private void TerminarTirada()
         {
             anim1.Visible = false;
