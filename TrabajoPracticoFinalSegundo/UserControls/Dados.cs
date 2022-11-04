@@ -99,6 +99,7 @@ namespace TrabajoPracticoFinalSegundo.UserControls
 
         }
 
+        // otro comentario si
         private void Dados_Try() 
         {
             this.dado1.Image = Tirada(ref this.d1);
